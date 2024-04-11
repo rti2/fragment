@@ -1,5 +1,5 @@
 {
-  "remarks": "IRCF Fragment",
+  "remarks": "Fragment",
   "log": {
     "access": "",
     "error": "",
@@ -122,8 +122,8 @@
         "domainStrategy": "AsIs",
         "fragment": {
           "packets": "tlshello",
-          "length": "10-20",
-          "interval": "10-20"
+          "length": "10-30",
+          "interval": "10-30"
         }
       },
       "streamSettings": {
